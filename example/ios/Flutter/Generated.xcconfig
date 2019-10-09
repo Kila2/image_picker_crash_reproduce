@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/kila/flutter
+FLUTTER_APPLICATION_PATH=/Users/kila/Desktop/image_picker-0.6.1+4/example
+FLUTTER_TARGET=/Users/kila/Desktop/image_picker-0.6.1+4/example/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/kila/flutter/bin/cache/artifacts/engine/ios
